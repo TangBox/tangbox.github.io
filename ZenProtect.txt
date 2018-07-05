@@ -1,0 +1,10 @@
+# ZenProtect
+# Blocks revokes by apple
+# Use with AdBlock (Futuremind) or any other app that supports hosts file format.
+
+0.0.0.0 127.0.0.1
+0.0.0.0 5.2.76.189
+0.0.0.0 crl.apple.com
+0.0.0.0 iadsk.apple.com
+0.0.0.0 ppq.apple.com
+0.0.0.0 ocsp.apple.com
